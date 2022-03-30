@@ -31,7 +31,7 @@ MBOT will update the candidate of each application status via email
 Feel free to drop me a line if you would like to know more about my PTech journey.
 
 Sources:
-[MBOT](https://www.mbot.org.my/)
-[Route To Professional Technologist - Ts.](https://lnkd.in/gtKTq8Cy)
-[Ir. Ts. Narendren Rengasamy](https://lnkd.in/gTirMnHx)
+[MBOT](https://www.mbot.org.my/), 
+[Route To Professional Technologist - Ts.](https://lnkd.in/gtKTq8Cy), 
+[Ir. Ts. Narendren Rengasamy](https://lnkd.in/gTirMnHx), 
 [Other Ts.](https://lnkd.in/gqGWFrUf, https://lnkd.in/gx8zpD59)
