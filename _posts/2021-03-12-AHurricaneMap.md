@@ -7,7 +7,7 @@ When I was a kid, I had always thought that Greenland is just as big as the Unit
 
 This eye-catching hurricane map is reproduced following a tutorial by John Nelson. It is a South Pole Stereographic Projection, to highlight the circular structure of the hurricanes. Also, because most of the storms were happening in the Northern Hemisphere. Other 'special effects' applied to this map including vignette overlays and glowing icons.
 
-![image](images/HurricaneMap.JPG)
+![image](../images/HurricaneMap.JPG)
 <img src="https://github.com/yinsanwoo/yinsanwoo.github.io/blob/master/images/HurricaneMap.JPG"
      style="float: left; margin-right: 10px;" />
 
