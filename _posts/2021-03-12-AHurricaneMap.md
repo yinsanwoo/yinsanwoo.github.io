@@ -7,14 +7,18 @@ When I was a kid, I had always thought that Greenland is just as big as the Unit
 
 This eye-catching hurricane map is reproduced following a tutorial by John Nelson. It is a South Pole Stereographic Projection, to highlight the circular structure of the hurricanes. Also, because most of the storms were happening in the Northern Hemisphere. Other 'special effects' applied to this map including vignette overlays and glowing icons.
 
-![](https://github.com/yinsanwoo/yinsanwoo.github.io/blob/master/images/HurricaneMap.JPG)
+![](images/HurricaneMap.JPG)
+<img src="https://github.com/yinsanwoo/yinsanwoo.github.io/blob/master/images/HurricaneMap.JPG"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
-Do you know hurricanes are incapable to cross the equator?  
+**Do you know hurricanes are incapable to cross the equator?**  
 It's because the Coriolis effect is minimal near or at the equator. 😉
 
 For the full [How-To create the hurricanes map](https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=3e04cf33cd9747f2b553e14b92a188b9)
 
-To enroll in this course: [https://lnkd.in/gd5iMJA](https://lnkd.in/gd5iMJA).
+
+Resources:  
 - [cartoblography](https://cartoblography.com/) by Kenneth Field
 - [adventures in mapping](https://adventuresinmapping.com/) by John Nelson
 - [maps we love](https://www.esri.com/en-us/maps-we-love/overview) by Esri
