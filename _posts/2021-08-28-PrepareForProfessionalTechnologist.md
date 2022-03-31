@@ -14,6 +14,7 @@ If you hold a BTech with at least 3 years of experience and would like to be rec
 - Interview and official PTech status, 2 months
 MBOT will update the candidate of each application status via email
 
+
 #### 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗿𝗲𝗹𝗮𝘁𝗲𝗱
 - Second chance to polish and submit your latest resume
 - Duration: 30 min to 1 hr
@@ -21,6 +22,7 @@ MBOT will update the candidate of each application status via email
 - Questions (based on the areas of assessment):
   - Personal: motivation of becoming a PTech, experience/research, CPD plans, leadership, contributions (past, present and future) to the field, challenges
   - General: Act 768, MBOT, Code of Ethics, IR 4.0, PTech vs PEng
+
 
 #### 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘁𝗶𝗽𝘀
 - know your interviewers, at least names beforehand

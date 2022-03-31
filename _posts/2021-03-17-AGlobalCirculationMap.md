@@ -8,10 +8,10 @@ I had a lot of funs exploring different projections in Week 2 of Esri MOOC Carto
 
 Spilhaus World Ocean Map in Square Projection is specially designed to present the oceans in a more engaging way.
 Several layers and techniques are employed in this map,
-[Spilhaus World Ocean Map](https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d),  
-[Land areas hand-drawn](https://www.projectlinework.org/) by cartographer Dylan Moriarty,  
-[Bathymetric or the underwater terrain DEM](https://www.gebco.net/) by GEBCO,  
-major ocean currents by Marine Conservation Institute.
+- [Spilhaus World Ocean Map](https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d),  
+- [Land areas hand-drawn](https://www.projectlinework.org/) by cartographer Dylan Moriarty,  
+- [Bathymetric or the underwater terrain DEM](https://www.gebco.net/) by GEBCO,  
+- major ocean currents by Marine Conservation Institute.
 
 Check out John Nelson's [oceanic maps](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/spilhaus-more-like-thrillhaus/). The Spilhaus projection was created by Athelstan Spilhaus in 1942!
 
