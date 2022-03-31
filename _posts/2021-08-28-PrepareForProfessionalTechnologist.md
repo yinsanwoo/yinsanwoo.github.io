@@ -32,6 +32,6 @@ Feel free to drop me a line if you would like to know more about my PTech journe
 
 Sources:
 [MBOT](https://www.mbot.org.my/), 
-[Route To Professional Technologist](https://lnkd.in/gtKTq8Cy), 
-[Ir. Ts. Narendren Rengasamy](https://lnkd.in/gTirMnHx), 
-[Other Ts.](https://lnkd.in/gqGWFrUf, https://lnkd.in/gx8zpD59)
+[Ir. Ts. Narendren Rengasamy](https://www.linkedin.com/pulse/my-journey-towards-becoming-professional-technologist-rengasamy/), 
+[mrs ingenieur](https://mrsingenieur.blogspot.com/2020/10/route-to-professional-technologist-ts_12.html),
+[JPK Malaysia](https://jpkmalaysia.com/ts-tc/)

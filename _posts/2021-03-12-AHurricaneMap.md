@@ -12,6 +12,7 @@ This eye-catching hurricane map is reproduced following a tutorial by John Nelso
 **Do you know hurricanes are incapable to cross the equator?**  
 It's because the Coriolis effect is minimal near or at the equator. 😉
 
+
 For the full [How-To create the hurricanes map](https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=3e04cf33cd9747f2b553e14b92a188b9)
 
 
