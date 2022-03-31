@@ -15,7 +15,7 @@ It's Klang Valley (1984-2020) this round, the largest metropolitan area in Malay
 
 <style>
     video {
-        height: 100vh;
+        height: auto;
         width: 100%;
         object-fit: contain; 
         position: absolute;
